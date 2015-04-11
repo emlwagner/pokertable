@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/poker/DarkTheme.css</name>
+			<type>1</type>
+			<location>C:/Users/Emily/Documents/CISC 181/DarkTheme.css</location>
+		</link>
+	</linkedResources>
 </projectDescription>
