@@ -35,13 +35,34 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <ImageView fitHeight="89.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="99.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="188.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="99.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="188.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <ImageView fitHeight="72.0" fitWidth="91.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="90.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="91.0" layoutX="99.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="69.0" fitWidth="90.0" layoutX="188.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="90.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="68.0" fitWidth="90.0" layoutX="99.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="67.0" fitWidth="91.0" layoutX="188.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
                   <Button mnemonicParsing="false" text="Sit" translateX="15.0" GridPane.rowIndex="3" />
                   <Button mnemonicParsing="false" text="Leave" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
                   <Label text="Player 3" translateX="15.0" GridPane.columnIndex="1" />
@@ -60,16 +81,39 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <ImageView fitHeight="96.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="96.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="92.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="92.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="93.0" fitWidth="91.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <ImageView fitHeight="70.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="71.0" fitWidth="94.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="89.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="89.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="65.0" fitWidth="91.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
                   <ImageView fitHeight="93.0" fitWidth="91.0" layoutX="99.0" layoutY="97.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <ImageView fitHeight="69.0" fitWidth="90.0" layoutX="10.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
                   <Button mnemonicParsing="false" text="Sit" translateX="20.0" GridPane.rowIndex="3" />
                   <Button mnemonicParsing="false" text="Leave" translateX="20.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
                   <Label text="Player 1" translateX="15.0" GridPane.rowIndex="1" />
+                  <ImageView fitHeight="70.0" fitWidth="89.0" layoutX="188.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image>
+                  </ImageView>
                </children>
             </GridPane>
             <GridPane GridPane.columnIndex="1" GridPane.rowIndex="2">
@@ -86,15 +130,38 @@
               </rowConstraints>
                <children>
                   <ImageView fitHeight="89.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="99.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="188.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="99.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="188.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <ImageView fitHeight="70.0" fitWidth="92.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="90.0" layoutX="99.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="65.0" fitWidth="91.0" layoutX="188.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="74.0" fitWidth="93.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="69.0" fitWidth="89.0" layoutX="99.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="71.0" fitWidth="90.0" layoutX="188.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
                   <Button mnemonicParsing="false" text="Sit" translateX="15.0" GridPane.rowIndex="3" />
                   <Button mnemonicParsing="false" text="Leave" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
                   <Label text="Player 4" translateX="15.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <ImageView fitHeight="65.0" fitWidth="91.0" layoutX="99.0" layoutY="145.0" pickOnBounds="true" preserveRatio="true" translateX="15.0" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image>
+                  </ImageView>
                </children>
             </GridPane>
             <GridPane GridPane.columnIndex="2" GridPane.rowIndex="1">
@@ -110,13 +177,34 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <ImageView fitHeight="89.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="98.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="187.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="98.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-                  <ImageView fitHeight="89.0" fitWidth="90.0" layoutX="187.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <ImageView fitHeight="68.0" fitWidth="91.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="71.0" fitWidth="91.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="68.0" fitWidth="90.0" layoutX="98.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="89.0" layoutX="187.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="68.0" fitWidth="92.0" layoutX="10.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="71.0" fitWidth="89.0" layoutX="98.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="71.0" fitWidth="90.0" layoutX="187.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/cardback.jpeg" />
+                     </image></ImageView>
                   <Button mnemonicParsing="false" text="Sit" translateX="15.0" GridPane.rowIndex="3" />
                   <Button mnemonicParsing="false" text="Leave" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
                   <Label text="Player 2" translateX="15.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
